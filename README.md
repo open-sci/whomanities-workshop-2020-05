@@ -32,7 +32,6 @@ Le funzioni che, al giorno d'oggi, possono avere le citazioni sono molteplici. E
 In questo contesto, con aperta/o, relativamente alla conoscenza e i dati si intende
 
 > quando chiunque ha libertà di accesso, uso, modifica e condivisione ad essa – avendo al massimo come limite misure che ne preservino la provenienza e l'apertura”
-
 >
 > Definizione di [Conoscenza Aperta](https://opendefinition.org/od/2.0/it/) 
 
