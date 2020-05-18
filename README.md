@@ -18,7 +18,12 @@
 
 Una *citazione bibliografica* è il **collegamento concettuale** che intercorre tra un'opera citante e un'opera citata, istanziato includendo un riferimento bibliografico in bibliografia o in nota, o in un riferimento intratestuale. Le citazioni permeano da sempre il tessuto accademico, e sono utilizzate per dare credito a teorie e studi necessari all'avanzamento della ricerca in un certo dominio.
 
-Le funzioni che, al giorno d'oggi, possono avere le citazioni sono molteplici. Esse permettono di essere organizzate e studiate topologicamente (definendo il grafo di connessione tra gli articoli citanti e citati nel tempo, così da evidenziale l'evoluzione della scienza nel tempo), in termini sociologici (per l'identificazione di cattivi processi di condotta della ricerca scientifica e di accesso elitario alla scienza), o sottostare a logiche prettamente quantitative (creando metriche basate su citazioni per valutare l'impatto scientifico di un'idea e/o di una persona) ed economiche (intese come moneta con la quale un ricercatore provvede alla sua sostentazione accademica).
+Le funzioni che, al giorno d'oggi, possono avere le citazioni sono molteplici. Esse permettono di:
+
+1. essere organizzate topologicamente, definendo il grafo di connessione tra gli articoli citanti e citati nel tempo, così da evidenziale l'evoluzione della scienza nel tempo; 
+2. essere studiate in termini sociologici, per l'identificazione di cattivi processi di condotta della ricerca scientifica e di accesso elitario alla scienza; 
+3. sottostare a logiche prettamente quantitative, creando metriche basate su citazioni per valutare l'impatto scientifico di un'idea e/o di una persona; 
+4. esprimere un valore economico, considerandole come moneta con la quale un ricercatore provvede alla sua sostentazione accademica.
 
 ## Citazioni aperte
 
