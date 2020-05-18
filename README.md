@@ -33,7 +33,7 @@ In questo contesto, con aperta/o, relativamente alla conoscenza e i dati si inte
 
 > quando chiunque ha libertà di accesso, uso, modifica e condivisione ad essa – avendo al massimo come limite misure che ne preservino la provenienza e l'apertura”
 >
-> Definizione di [Conoscenza Aperta](https://opendefinition.org/od/2.0/it/) 
+> *Definizione di [Conoscenza Aperta](https://opendefinition.org/od/2.0/it/)* 
 
 OpenCitations ha da poco pubblicato una nuova collezioni di dati, il [Coronavirus Open Citations Dataset (COCD)](https://opencitations.github.io/coronavirus/). COCD attualmente (18 maggio 2020) che contiene 189697 citazioni e i metadati dei relativi 49719 articoli citanti/citati.
 
