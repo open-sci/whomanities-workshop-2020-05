@@ -6,9 +6,13 @@
 
 **Quando:** 18 maggio 2020, dalle 11:15 alle 12:00.
 
-**Dove:** Da remoto, utilizzando la piattaforma Microsoft Teams.
+**Dove:** Da remoto, utilizzando la piattaforma Microsoft Teams. 
 
 **Perché:** Lo scopo del workshop è quello di introdurre, indirettamente, alcune pratiche e tecnologie volte e favorire la diffusione dei principi dell'Open Science e Open Access (si veda anche il seminario ["Open Science e Open Access nelle Scienze (Umane, e non solo)"](https://github.com/open-sci/seminar-2019-06)) ai giovani studiosi.
+
+## Intervista pre-workshop
+
+La registrazione dell'intervista attinente ai temi del workshop è a disposizione in forma integrale [su YouTube](https://www.youtube.com/watch?v=viwouZZVmJA&start=2199&end=4269).
 
 ## Fondamenti
 
@@ -58,6 +62,8 @@ Un DOI, Digital Object Identifier, una stringa usata per identificare documenti 
 
 Il `[prefisso]` identifica l'editore che ha pubblicato il documento a cui il DOI si riferisce. Usando le API di Crossref – `http://api.crossref.org/prefixes/[prefisso]`, ad esempio `http://api.crossref.org/prefixes/10.1108` – è possibile capire chi è l'editore relativo.
 
+L'obiettivo è quello di capire quanti articoli, per editore, non hanno depositato riferimenti bibliografici in Crossref – al 4 Aprile 2020.
+
 ### 2. Estendere i dati
 
 Gli editori di alcuni articoli, identificati da DOI, potrebbero non aver messo a disposizione i relativi riferimenti bibliografici su Crossref. Le ragioni possono essere almeno quattro:
@@ -103,4 +109,10 @@ Quello che si chiede di fare definito come segue.
 
 ## Materiale
 
-**Slide:** Peroni, S. (2020). Aiutare a tracciare l’evoluzione della scienza ai tempi dei coronavirus. [Google Slides](https://docs.google.com/presentation/d/1StnDA2RVmAOxUii_Xk1mNbLiRdadF-IOrQ1VBqAcjRs/edit?usp=sharing) 
+**Slide:** Peroni S (2020). Aiutare a tracciare l'evoluzione della scienza ai tempi dei coronavirus. Versione 1.0. Zenodo. [http://doi.org/10.5281/zenodo.3832939](http://doi.org/10.5281/zenodo.3832939) 
+
+**Dati citazionali:** Bel Mouddene S, Cestaro G, Coppini S, Gallo E, Lerose C, Lipari R, … Vezzani T (2020). Citazioni di alcuni articoli depositati in OSF. Versione 1.0. Zenodo. [http://doi.org/10.5281/zenodo.3832935](http://doi.org/10.5281/zenodo.3832935)
+
+**Codice:** Sono stati sviluppati due script per cercare di ottenere le informazioni per identificare quanti articoli, per editore, non hanno depositato riferimenti bibliografici in Crossref:
+* [get_prefix_publisher.py](https://github.com/open-sci/whomanities-workshop-2020-05/blob/master/code/get_prefix_publisher.py), realizzato da Arcangelo Massari e Cristian Santini – permette di recuperare i nome degli editori per ogni prefisso presente nei DOI in input;
+* [get_publisher_count.py](https://github.com/open-sci/whomanities-workshop-2020-05/blob/master/code/get_publisher_count.py), realizzato da Daniele Cavestri - permette di ottenere i DOI in input raggruppati per editore.
