@@ -113,6 +113,8 @@ Quello che si chiede di fare definito come segue.
 
 **Dati citazionali:** Bel Mouddene S, Cestaro G, Coppini S, Gallo E, Lerose C, Lipari R, … Vezzani T (2020). Citazioni di alcuni articoli depositati in OSF. Versione 1.0. Zenodo. [http://doi.org/10.5281/zenodo.3832935](http://doi.org/10.5281/zenodo.3832935)
 
+I dati citazionali estratti e pubblicati su [Zenodo](http://doi.org/10.5281/zenodo.3832935) sono stati anche pubblicati in [CROCI, the Crowdsourced OpenCitations Index](http://opencitations.net/index/croci), messo a disposizione da [OpenCitations](http://opencitations.net).
+
 **Codice:** Sono stati sviluppati due script per cercare di ottenere le informazioni per identificare quanti articoli, per editore, non hanno depositato riferimenti bibliografici in Crossref:
 * [get_prefix_publisher.py](https://github.com/open-sci/whomanities-workshop-2020-05/blob/master/code/get_prefix_publisher.py), realizzato da Arcangelo Massari e Cristian Santini – permette di recuperare i nome degli editori per ogni prefisso presente nei DOI in input;
 * [get_publisher_count.py](https://github.com/open-sci/whomanities-workshop-2020-05/blob/master/code/get_publisher_count.py), realizzato da Daniele Cavestri - permette di ottenere i DOI in input raggruppati per editore.
